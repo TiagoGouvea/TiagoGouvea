@@ -22,10 +22,10 @@ Senior Developer coding since 1997 - CEO at [App Masters](https://appmasters.io)
 
 ## StackOverflow and other communities
 
+<img align="right" src=https://github.com/TiagoGouvea/TiagoGouvea/raw/master/gdg-tiagogouvea.png width=200>
+
 ![](https://img.shields.io/stackexchange/stackoverflow/r/448292?order=desc&sort=reputation&site=stackoverflow?label=StackOverflow%20Reputation&logo=stack-overflow&style=for-the-badge)
 
-<img align="right" src=https://github.com/TiagoGouvea/TiagoGouvea/raw/master/gdg-tiagogouvea.png width=300>
- 
 I really like to fell part of the developers community. Since I can remember (before 2000s) I used to be part of many communities.        
  
 Currently, I'm a **Google Developers Group Organizer** on my city, and I have already held dozens of events for programmers.
