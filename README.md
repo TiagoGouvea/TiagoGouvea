@@ -26,7 +26,7 @@ Senior Developer coding since 1997 - CEO at [App Masters](https://appmasters.io)
  
 I really like to fell part of the developers community. Since I can remember (before 2000s) I used to be part of many communities.  
 
-<img src=https://github.com/TiagoGouvea/TiagoGouvea/raw/master/gdg-tiagogouvea.png width=500 float="right">      
+<img src=https://github.com/TiagoGouvea/TiagoGouvea/raw/master/gdg-tiagogouvea.png width=400>      
  
 Currently, I'm a **Google Developers Group Organizer** on my city, and I have already held dozens of events for programmers.
 
